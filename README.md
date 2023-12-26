@@ -1,4 +1,4 @@
-<img justify-item="center" align-item="center" src="https://i.pinimg.com/originals/50/99/18/509918b2b60b25cd2d683f9963f0f59a.gif" />
+<img align-item="center" src="https://i.pinimg.com/originals/50/99/18/509918b2b60b25cd2d683f9963f0f59a.gif" />
 
 <h1 align="center"> Olá! Prazer em te conhecer! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="32px"></h1>
 
